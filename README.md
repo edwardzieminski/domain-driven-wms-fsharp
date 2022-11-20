@@ -28,18 +28,20 @@ There are number of business processes in typical warehouse. I will focus on **i
 
 ![Sticky note colors meaning](readme-images/sticky-note-colors-meaning.png?raw=true)
 
-## `Inbound deliveries` related events
+## Context map
 
-![Graph for Inbound deliveries related events](readme-images/inbound-delivery-related-events.png?raw=true)
+![Context map](readme-images/context-map.png?raw=true)
 
-## `Office Inbound Delivery Handling` context workflows
+### Workflows
 
-![Office Inbound Delivery Handling context workflows](readme-images/office-team-inbound-workflows.png?raw=true)
+![Inbound Delivery notification acknowledgment workflow](readme-images/inbound-delivery-notification-acknowledgment-workflow.png?raw=true)
 
-## `Warehouse Inbound Delivery Handling` context workflows
+![Tally Sheet receival workflow](readme-images/tally-sheet-receival-workflow.png?raw=true)
 
-![Warehouse Inbound Delivery Handling context workflows](readme-images/warehouse-team-inbound-workflows.png?raw=true)
+![Delivery unloading workflow](readme-images/delivery-unloading-workflow.png?raw=true)
 
-## `Billing` context workflows
+![Inbound Delivery discrepancy acknowledgment workflow](readme-images/inbound-delivery-discrepancy-acknowledgment-workflow.png?raw=true)
 
-![Billing context workflows](readme-images/billing-team-inbound-workflows.png?raw=true)
+![Inbound Delivery Put Away acknowledgment workflow](readme-images/inbound-delivery-put-away-acknowledgement-workflow.png?raw=true)
+
+![Inbound Delivery invoice issuing workflow](readme-images/inbound-delivery-invoice-issuing-workflow.png?raw=true)
